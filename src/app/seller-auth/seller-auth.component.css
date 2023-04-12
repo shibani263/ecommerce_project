@@ -1,0 +1,28 @@
+.example-form {
+    min-width: 100%;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+ .button{
+   margin-left: 15px;
+ }
+ .auth-toggle-link{
+ 
+  margin-left: 35px;
+  color:black;
+  font-size: 15px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+ }
+ .error{
+  color: red;
+  margin-left: 70px;
+  
+  
+ }
+ 

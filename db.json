@@ -1,0 +1,245 @@
+{
+  "seller": [
+    {
+      "name": "Shibani",
+      "email": "shibani@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Peter",
+      "email": "peter@mail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Tshirt",
+      "price": "1199",
+      "color": "White",
+      "category": "Men's wear",
+      "description": "Small",
+      "image": "https://www.freeiconspng.com/thumbs/blank-t-shirt-png/blank-t-shirt-png-16.jpg",
+      "id": 1
+    },
+    {
+      "name": "Iphone 14 pro",
+      "price": "150000",
+      "color": "Black",
+      "category": "Mobiles",
+      "description": "6GB",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone14pro-202209_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1663611329204",
+      "id": 2
+    },
+    {
+      "name": "Wall Decor",
+      "price": "1599",
+      "color": "Multicolored",
+      "category": "Home Decor",
+      "description": "Floral Printed",
+      "image": "https://www.pngmart.com/files/10/Wall-Decor-PNG-Clipart.png",
+      "id": 3
+    },
+    {
+      "name": "Adapter",
+      "price": "349",
+      "color": "White",
+      "category": "Accessories",
+      "description": "Good",
+      "image": "https://atlas-content-cdn.pixelsquid.com/assets_v2/246/2461902123978200423/jpeg-600/G03.jpg?modifiedAt=1",
+      "id": 4
+    },
+    {
+      "name": "Dell Laptop",
+      "price": "78000",
+      "color": "Grey",
+      "category": "Laptops",
+      "description": "15\" 4k",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81WJdiywfTL.jpg",
+      "id": 5
+    },
+    {
+      "name": "Trousers",
+      "price": "599",
+      "color": "Black",
+      "category": "Men's wear",
+      "description": "Large",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220301/CTfJ/621e0411f997dd03e2f6b814/-473Wx593H-463922169-black-MODEL.jpg",
+      "id": 6
+    },
+    {
+      "name": "AC",
+      "price": "35999",
+      "color": "White",
+      "category": "Electronics",
+      "description": "Best Air Conditoned AC",
+      "image": "https://png.pngitem.com/pimgs/s/145-1455418_ac-voltas-1-5-ton-3-star-split-ac.png",
+      "id": 7
+    },
+    {
+      "name": "Nike shoes",
+      "price": "899",
+      "color": "Black",
+      "category": "Sport's Wear",
+      "description": "Best shoes for running",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/p/i/j/11-dd8475-003nike-12-nike-black-white-iron-grey-original-imaghxzc55afzhm6.jpeg?q=70",
+      "id": 8
+    },
+    {
+      "name": "OnePlus 11R 5G",
+      "price": "39999",
+      "color": "Green",
+      "category": "Mobiles",
+      "description": "The OnePlus 11 5G flagship combines power with effortless elegance",
+      "image": "https://cdn1.smartprix.com/rx-iEjrmLGJD-w420-h420/oneplus-11-5g.jpg",
+      "id": 9
+    },
+    {
+      "name": "Smart Watch",
+      "price": "1299",
+      "color": "Green",
+      "category": "Watch",
+      "description": "Best Watch",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41YUpdmzDtL.jpg",
+      "id": 10
+    },
+    {
+      "name": "Banarasi Saree",
+      "price": "4500",
+      "color": "Red",
+      "category": "Women's Wear",
+      "description": "Printed",
+      "image": "https://image.suratwholesaleshop.com/data/2022y/December/37022/Traditional-Wear-Red-Weaving-Work-Banarasi-Silk-Saree-1046A.jpg",
+      "id": 11
+    },
+    {
+      "name": "Gown",
+      "price": "2999",
+      "color": "Green",
+      "category": "Women's Wear",
+      "description": "Satin cloth",
+      "image": "https://p.kindpng.com/picc/s/194-1947943_short-sleeve-dress-green-hd-png-download.png",
+      "id": 12
+    },
+    {
+      "name": "Clock",
+      "price": "459",
+      "color": "white",
+      "category": "Decor",
+      "description": "Good",
+      "image": "https://pngimg.com/d/clock_PNG6616.png",
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "name": "Shibani",
+      "email": "shibani@gmail.com",
+      "password": "Shibani@123",
+      "id": 1
+    },
+    {
+      "name": "Vishal",
+      "email": "vishal@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "Peter",
+      "email": "peter@mail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "Vishal",
+      "email": "vishal@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "Bruce",
+      "email": "bruce@mail.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "Shibani",
+      "email": "shibani@gmail.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "name": "Vishal",
+      "email": "vishal@gmail.com",
+      "password": "2345",
+      "id": 7
+    },
+    {
+      "name": "Peter",
+      "email": "peter@mail.com",
+      "password": "1234",
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "name": "Wall Decor",
+      "price": "1599",
+      "color": "Multicolored",
+      "category": "Home Decor",
+      "description": "Floral Printed",
+      "image": "https://www.pngmart.com/files/10/Wall-Decor-PNG-Clipart.png",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 3,
+      "id": 1
+    },
+    {
+      "name": "Tshirt",
+      "price": "1199",
+      "color": "White",
+      "category": "Men's wear",
+      "description": "Small",
+      "image": "https://www.freeiconspng.com/thumbs/blank-t-shirt-png/blank-t-shirt-png-16.jpg",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 1,
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "email": "shibani@gmail.com",
+      "address": "Rourkela",
+      "contact": "6371020458",
+      "totalPrice": 150100,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "vishal@gmail.com",
+      "address": "Patna",
+      "contact": "9102678912",
+      "totalPrice": 449,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "email": "afvava",
+      "address": "Rourkela",
+      "contact": "152623",
+      "totalPrice": 1845,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "shibani@gmail.com",
+      "address": "Rkl",
+      "contact": "87576576576",
+      "totalPrice": 1299,
+      "userId": 1,
+      "id": 4
+    }
+  ]
+}

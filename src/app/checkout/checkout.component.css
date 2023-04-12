@@ -1,0 +1,45 @@
+.checkout{
+    background: beige;
+}
+.checkout h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.shipping-address h2{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.form-button{
+    height:35px;
+    width:96%;
+    border: 1px solid blueviolet;
+    color: blueviolet;
+    cursor: pointer;
+  margin-left:40px;
+  
+}
+
+.checkout-amount{
+    
+    text-align:center;
+    padding-top:5%;
+   
+}
+.message-p{
+    color: green;
+    text-align: center;
+}
+.demo {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    min-height: 40px;
+  }
+  
+  .note {
+    font: 400 16px/24px Roboto, Noto Sans, Noto Sans JP, Noto Sans KR,
+      Noto Naskh Arabic, Noto Sans Thai, Noto Sans Hebrew, Noto Sans Bengali,
+      sans-serif;
+  }
+     

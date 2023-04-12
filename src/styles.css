@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+}
+.message_p{
+    color:green;
+   text-align: center;
+   padding-top: 8px;
+}
+.carousel-caption {
+  background-color: #0000007d;
+  border-radius: 10px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+  background-color: black;
+  border-radius: 5px;
+}
+  .carousel{
+   
+    text-align: center;
+    padding-top:10px;
+  }
+.invalid-input{
+color: red;
+font-size: 15px;
+
+}
+button:disabled{
+  cursor: not-allowed;
+  pointer-events: all !important;
+  
+
+}
+
+
+/* html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; } */

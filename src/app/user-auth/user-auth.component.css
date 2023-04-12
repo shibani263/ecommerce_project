@@ -1,0 +1,14 @@
+.auth-toggle-link{
+ 
+    margin-left: 35px;
+    color:black;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+   }
+   .error-p{
+    color:red;
+    margin-left: 10px;
+   
+   }
